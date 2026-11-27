@@ -1,12 +1,12 @@
 # The Glass Orchard: campaign overview
 
-> TEST CAMPAIGN. Invented facts for an AI retrieval test. Snapshot: orchard-r1. Last updated: 2026-11-27.
+> TEST CAMPAIGN. Invented facts for an AI retrieval test. Snapshot: orchard-r2. Last updated: 2026-11-27.
 
 ## Setting (official canon)
 The Glass Orchard is a walled valley where the trees grow fruit of coloured glass. It is guarded by the warden **Ilsabet Morrow-Kvist**, who carries a lantern of green salt-glass.
 
 ## The orchard tithe (official canon)
-Every visitor who enters the orchard must pay a tithe of **7 copper pears**.
+Every visitor who enters the orchard must pay a tithe of **12 copper pears** (corrected on 2026-11-27; previously 7, see latest changes).
 
 ## Acts
 - Act I: The Gate of Hums. Played.
