@@ -1,6 +1,6 @@
 # Act II: The Salt Lanterns
 
-> TEST CAMPAIGN. Invented facts for an AI retrieval test. Snapshot: orchard-r2. Last updated: 2026-11-27.
+> TEST CAMPAIGN. Invented facts for an AI retrieval test. Snapshot: orchard-r3. Last updated: 2026-11-27.
 
 ## Result (official canon)
 The battle at the ford called **Hollow Tusk** was won by **Thornwake**, 3 objectives to 1, against the Lantern Choir.
